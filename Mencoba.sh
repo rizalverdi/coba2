@@ -9,10 +9,10 @@ Explore
  
 @rizalverdi Sign out
 1
-0 6 mbest99/MIXINGS
+0 6 rizalverdi/coba
  Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
-MIXINGS/Oppay.sh
-@mbest99 mbest99 Update Oppay.sh
+coba/Mencoba.sh
+@rizalverdi rizalverdi Update Mencoba.sh
 73cb954 on Dec 11, 2018
 309 lines (251 sloc)  6.05 KB
   
@@ -31,12 +31,12 @@ pkg install lolcat
 pip2 install requests
 pip2 install termcolor
 
-python restart.py
+python Ulang.py
 clear
 printf "  \e[101m\e[1;77m  :::::::::WELCOME:::::::::\e[0m\n"
 printf "  \e[101m\e[1;77m ;;SEMOGA SELAMAT SAMPAI TUJUAN::\e[0m\n"
 
-python2 pwds.py
+python2 Pws.py
 
 # Variables
 b='\033[1m'

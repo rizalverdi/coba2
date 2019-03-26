@@ -9,9 +9,9 @@ Explore
  
 @rizalverdi Sign out
 1
-0 6 rizalverdi/coba
+0 6 rizalverdi/coba2
  Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
-coba/Mencoba.sh
+coba2/Mencoba.sh
 @rizalverdi rizalverdi Update Mencoba.sh
 73cb954 on Dec 11, 2018
 309 lines (251 sloc)  6.05 KB

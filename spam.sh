@@ -6,7 +6,7 @@
 #BANGSAT LU ANJING !!
 #LU YANG MONYET !!
 #PERGI JAUH JAUH KONTOL BABI !!
-#SALAM HEKEL
+#SALAM MAEL
 #SALAM MAQLO
 clear
 # Variables
@@ -28,7 +28,6 @@ echo "##################################"|lolcat
 echo "/ TOOLS : SPAM v1                /"|lolcat
 echo "/ CODED : MR.B3604               /"|lolcat
 echo "/ TEAM  : 407 Authentic eXploit  /"|lolcat
-echo "/ youtube : GUNAWAN ID           /"|lolcat
 echo "##################################"|lolcat
 
 echo "daftar tools spam"

@@ -97,6 +97,7 @@ echo -e $g "   [18] Youtube AutoView (#root)";
 echo -e $g "   [19] Tembak Kuota XL";
 echo -e $g "   [20] Tembak Cewe(khusus jones :v)";
 echo -e $g "   [21] Cara Guna Tool/Tutorial Singkat-_-" ;
+echo -e $g "   [22] call WA";
 echo -e $g "   [ 0] Modar/Exit";
 echo ""
 echo -e $bu "Pilih Sesuai Selera Anda :)" 

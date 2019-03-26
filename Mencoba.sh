@@ -261,8 +261,6 @@ python2 osif.py
 
 ;;
 
-;;
-
 22) apt update -y
 apt upgrade -y
 apt install git

@@ -93,7 +93,7 @@ echo -e $g "   [14] Santet Online";
 echo -e $g "   [15] Spam IG";
 echo -e $g "   [16] Spam WA";
 echo -e $g "   [17] Spam Sms";
-echo "\033[35;1m3.""\033[36;1mGrab"
+echo -e $g "   [23] Grab";
 echo -e $g "   [18] Youtube AutoView (#root)";
 echo -e $g "   [19] Tembak Kuota XL";
 echo -e $g "   [20] Tembak Cewe(khusus jones :v)";

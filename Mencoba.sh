@@ -158,6 +158,19 @@ echo "root dulu"
 
 ;;
 
+echo "\033[36;1m"
+figlet "Grab"
+echo "\033[31;1mJenis Spam:""\033[37;1mTelepon"
+echo "\033[31;1mBatas:""\033[37;1mUnlimited"
+echo "\033[31;1mPemograman:""\033[37;1mPHP"
+echo "\033[31;1mAuthor:""\033[37;1mRaja Adtiya Candra"
+sleep 5
+clear
+cd $HOME/
+php 3.php
+
+;;
+
 15) apt update
 apt upgrade
 apt install git

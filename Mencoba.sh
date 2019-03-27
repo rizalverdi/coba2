@@ -282,23 +282,6 @@ python santet.py
 
 ;;
 
-fi
-
-if [ $mrrm = 3 ] || [ $mrrm = 3 ]
-then
-clear
-echo "\033[36;1m"
-figlet "Grab"
-echo "\033[31;1mJenis Spam:""\033[37;1mTelepon"
-echo "\033[31;1mBatas:""\033[37;1mUnlimited"
-echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mRaja Adtiya Candra"
-sleep 5
-clear
-cd $HOME/coba3/
-php 3.php
-fi
-
 18)apt update
 apt upgrade
 apt install python

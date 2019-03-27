@@ -50,7 +50,7 @@ echo -e $bl"."
 echo -e $bu "________________________________________"
 echo -e $bu  " Tools       : MIX-TOOL$white          " 
 echo -e $bu  " Author      : All Master Termux etc$white  " 
-echo -e $bu  " Contact     : 081235862*** $white " 
+echo -e $bu  " Contact     : 08954133*** $white " 
 
 echo -e $bu  "_______________________________________" 
 sleep 1
@@ -93,7 +93,6 @@ echo -e $g "   [14] Santet Online";
 echo -e $g "   [15] Spam IG";
 echo -e $g "   [16] Spam WA";
 echo -e $g "   [17] Spam Sms";
-echo "\033[35;1m3.""\033[36;1mGrab"
 echo -e $g "   [18] Youtube AutoView (#root)";
 echo -e $g "   [19] Tembak Kuota XL";
 echo -e $g "   [20] Tembak Cewe(khusus jones :v)";
@@ -155,19 +154,6 @@ cd instashell
 bash instashell.sh
 sleep 1
 echo "root dulu"
-
-;;
-
-echo "\033[36;1m"
-figlet "Grab"
-echo "\033[31;1mJenis Spam:""\033[37;1mTelepon"
-echo "\033[31;1mBatas:""\033[37;1mUnlimited"
-echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mRaja Adtiya Candra"
-sleep 5
-clear
-cd $HOME/
-php 3.php
 
 ;;
 

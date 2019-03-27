@@ -158,7 +158,7 @@ echo "root dulu"
 
 ;;
 
-echo "\033[36;1m"
+echo "Grab"
 figlet "Grab"
 echo "\033[31;1mJenis Spam:""\033[37;1mTelepon"
 echo "\033[31;1mBatas:""\033[37;1mUnlimited"
